@@ -1,6 +1,0 @@
-# Config file
-Host school
-    HostName 52.204.68.195
-    User ubuntu
-    IdentityFile alx-system_engineering-devops/0x0B-ssh/2-ssh_config
-    PasswordAuthentication no
