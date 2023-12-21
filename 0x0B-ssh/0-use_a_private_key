@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Bash script that uses ssh to connect to your server using the private
+# key alx-system_engineering-devops/0x0B-ssh with the user ubuntu
+ssh ubuntu@54.90.55.247 -i ~/.ssh/school

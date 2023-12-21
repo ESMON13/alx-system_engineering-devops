@@ -1,0 +1,6 @@
+# Config file
+Host school
+    HostName 54.90.55.247
+    User ubuntu
+    IdentityFile alx-system_engineering-devops/0x0B-ssh/school
+    PasswordAuthentication no
