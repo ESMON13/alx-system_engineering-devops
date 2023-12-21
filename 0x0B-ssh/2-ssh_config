@@ -2,5 +2,5 @@
 Host school
     HostName 54.90.55.247
     User ubuntu
-    IdentityFile alx-system_engineering-devops/0x0B-ssh/school
+    IdentityFile ~/.ssh/school
     PasswordAuthentication no
